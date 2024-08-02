@@ -29,3 +29,6 @@ Key Insights
 •	Bangalore garners the most attention and positive feedback. Followed by Mumbai, Hyderabad, Chennai and Delhi also exhibit a notable presence of positive and neutral feedback.
 
 •	Focusing on these cities with targeted campaigns and initiatives can solidify our presence and resonate with the local audience. Supermarkets are the most preferred choice for nearly half of the respondents (44.9%). Followed by Online retailers (25.5%) indicates the importance of strong online presence and Gym and fitness centers (14.6%) targets health-conscious consumers.
+
+I Learned from this project
+Through this project, I've learned to analyze survey data effectively using MySQL and Power BI. I've gained insights into consumer preferences and marketing strategies in the energy drink industry. This experience has taught me the importance of understanding customer needs and market trends to drive brand success.
