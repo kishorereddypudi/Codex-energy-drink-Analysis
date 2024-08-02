@@ -1,12 +1,15 @@
 Domain: F & B, Function: Marketing
+
 This is a resume project, conducted by Codebasics in Food and Beverage Industry.
 CodeX, a German beverage company, has launched its energy drink in the dynamic Indian market. Initial launch spanned across 10 cities in India, marking the beginning of its market strategy. Market research conducted by the Marketing team garnered insights from 10,000 respondents in these cities. Objectives: Increase brand awareness, capture market share, and drive product development initiatives. Let’s delve into the survey results and strategic recommendations to propel CodeX’s success in India.
 
  Tool Used
+ 
 •	For solving SQL queries: MS SQL
 •	For visualization: Power BI
 
 Key Insights
+
 •	Among the surveyed population, Males show the highest preference for energy drinks, accounting for 60.38% of the total respondents. while Females also enjoy them, making up a significant portion (34.55%).
 •	People aged 19-30 are the biggest fans of energy drinks, constituting the largest segment with 5.5K individuals (>50%) followed by age groups 31-45 and 15-18, indicates that energy drinks are more popular among younger people (15-30). The numbers show that as people get older, they might not be as interested in energy drinks.
 •	Among youth aged 15-30, online ads appear to be the most effective marketing channel, with total 3373 respondents, followed by TV Commercials. The dominance of online ads suggests that digital platforms are highly effective in capturing the attention of young consumers.
