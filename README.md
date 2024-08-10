@@ -5,7 +5,7 @@ CodeX, a German beverage company, has launched its energy drink in the dynamic I
 
  Tool Used
  
-•	For solving SQL queries: MS SQL
+•	For solving SQL queries: MY SQL
 •	For visualization: Power BI
 
 Key Insights
